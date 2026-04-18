@@ -113,7 +113,8 @@ Security testing · Test documentation best practices
 
 ## Author
 
-Fábio Pereira 
+Fábio Pereira
+
 ISTQB® (CTFL) Certified Tester Foundation Level
 
 📧 fabio.pestana.51@gmail.com  
