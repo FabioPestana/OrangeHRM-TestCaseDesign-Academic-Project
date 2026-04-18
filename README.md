@@ -1,5 +1,6 @@
-Design of 157 test cases for OrangeHRM My Info Module - Academic Project | Functional, Security, Accessibility and Compatibility Testing
 # OrangeHRM My Info Module - QA Tester Academic Project
+
+Design of 157 test cases for OrangeHRM My Info Module - Academic Project | Functional, Security, Accessibility and Compatibility Testing
 
 **Note:** This project was developed in Portuguese as part of an intensive QA training program.
 
