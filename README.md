@@ -72,12 +72,12 @@ Requirements Traceability Matrix ensures 100% mapping between requirements and t
 
 ## Files
 
-**Projeto_OrangeHRM-Rumos_Hands_on_Lab.xlsx**
+**Project_OrangeHRM-Rumos_Hands_on_Lab.xlsx**
 
 Complete documentation of 157 test cases with preconditions, test data, 
 steps and expected results. Includes Requirements Traceability Matrix.
 
-**ProjetoFinal.pdf**
+**Project_Requirements_Specification.pdf**
 
 Software Requirements Specification (SRS) for the OrangeHRM My Info Module. 
 Contains detailed functional requirements, system architecture and business rules 
@@ -104,8 +104,8 @@ Security testing · Test documentation best practices
 
 ## How to Use
 
-1. Review ProjetoFinal.pdf for system requirements and specifications
-2. Download Projeto_OrangeHRM-Rumos_Hands_on_Lab.xlsx
+1. Review Project_Requirements_Specification.pdf for system requirements and specifications
+2. Download Project_OrangeHRM-Rumos_Hands_on_Lab.xlsx
 3. Review all 157 test cases with specifications
 4. Check Requirements Traceability Matrix for coverage
 
