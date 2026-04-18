@@ -116,5 +116,5 @@ Security testing · Test documentation best practices
 Fábio Pereira 
 ISTQB® (CTFL) Certified Tester Foundation Level
 
-📧 fábio.pestana.51@gmail.com  
+📧 fabio.pestana.51@gmail.com  
 🔗 linkedin.com/in/f%C3%A1bio-pereira-4b11aa193
